@@ -772,7 +772,7 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(to right, rgba(34,47,100,1) 0%,rgba(191,11,48,1) 100%);
+    background: 325baf;
     border-radius: 100%;
     border: 5px solid var(--primary-color);
     position: absolute;
@@ -866,7 +866,7 @@ a:hover {
     display: grid;
     justify-content: space-between;
     grid-template-columns: auto auto;
-    background: linear-gradient(to right, rgba(34,47,100,1) 0%,rgba(191,11,48,1) 100%);
+    background: #f7c918;
     align-items: center;
     margin-bottom: -54px;
     position: relative;
